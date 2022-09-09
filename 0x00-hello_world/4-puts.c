@@ -1,12 +1,14 @@
 #include <stdio.h>
-
 /**
- * main -main block
+ * main - entrypoint
  *
  * Return: 0
  */
+
 int main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
+
+	getchar();
 	return (0);
 }
