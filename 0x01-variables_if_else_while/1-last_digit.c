@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * prints the last digit of the random number stored in the variable n
+ * Description: random number and check its last digit, and compare
  * Return: Always 0 (Success)
  */
 int main(void)
