@@ -13,7 +13,7 @@ void print_times_type(int n)
 		return;
 	while (x <= n)
 	{
-		for (y = 0;y <= n; y++)
+		for (y = 0; y <= n; y++)
 		{
 			z = x * y;
 			if (z > 99)
