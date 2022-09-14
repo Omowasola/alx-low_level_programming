@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _print_last_digit - prints the last digit
+ * print_last_digit - prints the last digit
  * of a number.
  *
  * @n: input number as an integer.
@@ -12,6 +12,7 @@
 int print_last_digit(int n)
 {
 	int l;
+
 	l = n % 10;
 	if (l < 0)
 	{
