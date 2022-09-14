@@ -2,9 +2,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - prints all number from n to 98
- *
- * @: int typenumber
- * 
+ * @n: int typenumber
  */
 void print_to_98(int n)
 {
