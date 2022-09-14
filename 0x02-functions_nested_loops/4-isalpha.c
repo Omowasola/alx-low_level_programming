@@ -2,7 +2,9 @@
 
 /**
  * main - entrypoint
- * Description: shows 1 if it is a letter,lowercase or uppercase. Another case,  returns 0
+ * _isalpha - shows 1 if the input is a
+ * letter. Another case,  returns 0
+ *
  * @c: The character in ASCII code
  * Return: 1 for letters, 0 for the rest
  */
